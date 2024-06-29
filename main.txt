@@ -3,3 +3,5 @@ Tạo commit C1
 Tạo commit C2
 
 Tạo commit C3
+
+Tạo commit C4
