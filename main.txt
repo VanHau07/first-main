@@ -7,3 +7,5 @@ Tạo commit C3
 Tạo commit C4
 
 Tạo commit C5
+
+Tạo commit B2
